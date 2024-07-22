@@ -28,8 +28,7 @@ module.exports = {
           { name: '⏮️ Previous', value: 'Play the previous song in the queue' },
           { name: '🔀 Shuffle', value: 'Shuffle the songs in queue' },
           { name: '📃 playlist', value: 'manage the playlists' }
-        )
-        .setImage(`https://cdn.discordapp.com/attachments/1239846314628481035/1265038938137956535/cute-top.png?ex=66a00ed2&is=669ebd52&hm=1b50a0cd4e1d723699539f53a084a1b5886070f75bcedbd65155816960210eb4&`); 
+        ); 
 
       const basicCommandsEmbed = new EmbedBuilder()
         .setColor(client.config.embedColor)
