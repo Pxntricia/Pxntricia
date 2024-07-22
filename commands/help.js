@@ -45,17 +45,17 @@ module.exports = {
        .setImage('https://cdn.discordapp.com/attachments/1239846314628481035/1265038938137956535/cute-top.png?ex=66a00ed2&is=669ebd52&hm=1b50a0cd4e1d723699539f53a084a1b5886070f75bcedbd65155816960210eb4&')
       const button1 = new ButtonBuilder()
         .setLabel('YouTube')
-        .setURL('')
+        .setURL('https://www.youtube.com/channel/UCXgxft04q8yKsShAW5bWysQ')
         .setStyle(ButtonStyle.Link);
 
       const button2 = new ButtonBuilder()
         .setLabel('Discord')
-        .setURL('')
+        .setURL('janeirada.')
         .setStyle(ButtonStyle.Link);
 
       const button3 = new ButtonBuilder()
-        .setLabel('Code')
-        .setURL('')
+        .setLabel('IG')
+        .setURL('https://www.instagram.com/janemay.y/')
         .setStyle(ButtonStyle.Link);
 
       const row = new ActionRowBuilder()
