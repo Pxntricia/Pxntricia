@@ -22,7 +22,7 @@
     "ffmpeg": "^0.0.4",
     "ffmpeg-static": "^5.2.0",
     "libsodium-wrappers": "^0.7.11",
-    "mongodb": "^6.2.0",
+    "mongodb": "^6.8.0",
     "mongoose": "^6.11.6",
     "random-anime": "^1.0.6",
     "sapphire": "^0.0.3",
